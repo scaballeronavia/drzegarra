@@ -1,0 +1,13 @@
+name: 'TableField required'
+description: 'Set required on certain rows/cols.'
+package: Field types
+type: module
+# core: 8.x
+dependencies:
+  - tablefield:tablefield
+
+# Information added by Drupal.org packaging script on 2019-05-01
+version: '8.x-2.0-alpha3'
+core: '8.x'
+project: 'tablefield'
+datestamp: 1556720885
